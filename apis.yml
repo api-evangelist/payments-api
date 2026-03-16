@@ -1,0 +1,17 @@
+aid: payments-api
+name: Payments Api
+description: >-
+  This is a demo payments APIs.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - API
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/payments-api/refs/heads/main/apis.yml
+created: '2026-03-16'
+modified: '2026-03-16'
+specificationVersion: '0.19'
+apis: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
